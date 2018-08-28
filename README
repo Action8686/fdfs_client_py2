@@ -5,8 +5,8 @@
 
 fdfs_client_linux 引用第三方库，大侠的github地址：https://github.com/hay86
 fdfs_client_win (没有使用到)
-通过get_url.py/get_fileurl(异步)获取mysql数据库中已经存好的fdfs链接,然后调用file_delete.py进行删除
-
+通过get_url.py/get_fileurl（异步）获取的MySQL数据库中已经存好的FDFS链接，然后调用file_delete.py进行删除
+修改：client.conf中文件服务器地址
 功能说明
 1、放置需要上传的文件到upload文件夹下
 2、填写需要删除的文件路径到delete.list文件中
