@@ -1,4 +1,7 @@
 
+[![Build Status](https://travis-ci.org/mtianyan/hexoBlog-Github.svg?branch=master)](https://travis-ci.org/mtianyan/hexoBlog-Github)
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
+
 参考:https://github.com/yinshunyao/fdfs_client_py2
 
 本示例仅支持python2，实现了FastFDS数据库文件上传和删除功能
